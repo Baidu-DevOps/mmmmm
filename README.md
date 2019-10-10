@@ -1,12 +1,1 @@
 #test-data
-#--amend
-fds
-dfsfsfdfsdfaest003
-dsfdsfsdfsssdfsfs
-ssssss
-sddd
-dssds
-commit01
-commit02
-03
-04
